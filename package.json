@@ -1,0 +1,15 @@
+{
+  "name": "zerodha-landing-page",
+  "version": "1.0.0",
+  "description": "jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:abdullahkhan199923/zerodha-landing-page.git"
+  }
+}
